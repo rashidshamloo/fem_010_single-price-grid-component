@@ -146,6 +146,7 @@ footer {
     grid-template-areas: "heading heading" "subscription why-us";
     grid-template-rows: 45% 55%;
     grid-auto-columns: 1fr;
+    border-radius: 0.5rem;
     .heading {
       padding: 2.5rem;
       h1 {
